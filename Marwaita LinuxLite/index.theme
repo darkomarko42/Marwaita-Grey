@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita LinuxLite
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita LinuxLite
+MetacityTheme=Marwaita LinuxLite
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
