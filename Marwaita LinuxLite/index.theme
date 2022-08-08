@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Marwaita LinuxLite
 MetacityTheme=Marwaita LinuxLite
-IconTheme=Luna-Light
-CursorTheme=Luna
+IconTheme=Marwaita-Light
+CursorTheme=Marwaita
 CursorSize=24
