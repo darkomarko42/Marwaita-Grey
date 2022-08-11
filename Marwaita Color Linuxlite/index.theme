@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita Alt LinuxLite
+Name=Marwaita Color Linuxlite
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita Alt LinuxLite
-MetacityTheme=Marwaita Alt LinuxLite
+GtkTheme=Marwaita Color Linuxlite
+MetacityTheme=Marwaita Color Linuxlite
 IconTheme=Marwaita
 CursorTheme=Marwaita
 CursorSize=24
