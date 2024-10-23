@@ -1,4 +1,4 @@
-*{color: #303030; icon-size: 16px; selection-background-color: rgba(0,0,0, 0.15); selected-color: #303030; background-clip: padding-box;}
+*{color: #dcdcdc; icon-size: 16px; selection-background-color: rgba(255,255,255, 0.15); selected-color: #dcdcdc; background-clip: padding-box;}
 
 #panel,
 .menu-application-button:highlighted,
@@ -20,7 +20,7 @@
 .calendar-day-heading,
 .calendar-today-home-button *,
 .overview-empty-placeholder *
-{color: rgba(0,0,0, 0.5);}
+{color: rgba(255,255,255, 0.5);}
 
 .popup-subtitle-menu-item,
 .calendar-other-month-day,
@@ -31,7 +31,7 @@
 .popup-menu-item:insensitive *,
 .popup-inactive-menu-item *,
 .popup-menu-item:insensitive,
-.popup-inactive-menu-item{color: rgba(0,0,0, 0.35);}
+.popup-inactive-menu-item{color: rgba(255,255,255, 0.35);}
 
 .menu-category-button-greyed StIcon {opacity: 0.5;}
 
@@ -213,7 +213,7 @@ StButton:checked.radiobutton
 .window-list-preview,
 .overview-empty-placeholder,
 .grouped-window-list-thumbnail-menu
-{background-color: #f9f9f9; /*use base color*/}
+{background-color: #5c5c5c; /*use base color*/}
 
 .menu #notification,
 
@@ -249,7 +249,7 @@ StButton,
 StScrollBar StBin#trough,
 .grouped-window-list-thumbnail-menu .item-box:selected,
 .window-list-item-box
-{ background-color: rgba(0,0,0, 0.1); box-shadow: none;}
+{ background-color: rgba(255,255,255, 0.1); box-shadow: none;}
 
 StButton:hover,
 #notification StButton.notification-button:hover,
@@ -258,7 +258,7 @@ StButton:hover,
 .popup-menu #notification StButton.notification-icon-button:hover,
 .window-list-item-box:hover,
 .window-list-item-box:active:hover
-{background-color: rgba(0,0,0, 0.15);}
+{background-color: rgba(255,255,255, 0.15);}
 
 .applet-cornerbar,
 .applet-cornerbar-box:hover > .applet-cornerbar,
@@ -287,7 +287,7 @@ StButton:checked,
 #notification StButton.notification-icon-button:checked,
 .popup-menu #notification StButton.notification-button:checked,
 .popup-menu #notification StButton.notification-icon-button:checked
-{ background-color: rgba(0,0,0, 0.2); box-shadow: none;}
+{ background-color: rgba(255,255,255, 0.2); box-shadow: none;}
 
 .window-close:active,
 .window-close:checked,
@@ -296,19 +296,19 @@ StButton:checked,
 
 .grouped-window-list-item-box:active { background-color: rgba(0,0/**/,0, 0.01);}
 
-.panel-bottom .grouped-window-list-item-box:active:focus{ box-shadow: inset 0 -4px rgba(0,0,0, 1);}
-.panel-top .grouped-window-list-item-box:active:focus{ box-shadow: inset 0 4px rgba(0,0,0, 1);}
-.panel-right .grouped-window-list-item-box:active:focus{ box-shadow: inset -4px 0 rgba(0,0,0, 1);}
-.panel-left .grouped-window-list-item-box:active:focus{ box-shadow: inset 4px 0 rgba(0,0,0, 1);}
+.panel-bottom .grouped-window-list-item-box:active:focus{ box-shadow: inset 0 -4px rgba(255,255,255, 1);}
+.panel-top .grouped-window-list-item-box:active:focus{ box-shadow: inset 0 4px rgba(255,255,255, 1);}
+.panel-right .grouped-window-list-item-box:active:focus{ box-shadow: inset -4px 0 rgba(255,255,255, 1);}
+.panel-left .grouped-window-list-item-box:active:focus{ box-shadow: inset 4px 0 rgba(255,255,255, 1);}
 
-.panel-bottom .grouped-window-list-item-box:active{ box-shadow: inset 0 -4px rgba(0,0,0, 0.5);}
-.panel-top .grouped-window-list-item-box:active{ box-shadow: inset 0 4px rgba(0,0,0, 0.5);}
-.panel-right .grouped-window-list-item-box:active{ box-shadow: inset -4px 0 rgba(0,0,0, 0.5);}
-.panel-left .grouped-window-list-item-box:active{ box-shadow: inset 4px 0 rgba(0,0,0, 0.5);}
+.panel-bottom .grouped-window-list-item-box:active{ box-shadow: inset 0 -4px rgba(255,255,255, 0.5);}
+.panel-top .grouped-window-list-item-box:active{ box-shadow: inset 0 4px rgba(255,255,255, 0.5);}
+.panel-right .grouped-window-list-item-box:active{ box-shadow: inset -4px 0 rgba(255,255,255, 0.5);}
+.panel-left .grouped-window-list-item-box:active{ box-shadow: inset 4px 0 rgba(255,255,255, 0.5);}
 
 .progress{background-color: rgba(51,185,84,0.5);}
 
-.panel-dummy{ background-color: rgba(0,0,0, 0.5);}
+.panel-dummy{ background-color: rgba(255,255,255, 0.5);}
 
 .expo-background{background-color: #252525;}
 
@@ -322,7 +322,7 @@ StButton:checked,
 
 #notification,
 .menu #notification
-{box-shadow: 0 0 0 1px rgba(0,0,0, 0.1);}
+{box-shadow: 0 0 0 1px rgba(255,255,255, 0.1);}
 
 .expo-background{border: none;}
 
@@ -374,10 +374,10 @@ StEntry,
 .panel-left,
 .panel-right,
 .window-list-item-box
-{border-color: rgba(0,0,0, 0.1);}
+{border-color: rgba(255,255,255, 0.1);}
 
 .popup-separator-menu-item,
-.calendar-events-main-box .separator{background-color: rgba(0,0,0, 0.1);}
+.calendar-events-main-box .separator{background-color: rgba(255,255,255, 0.1);}
 
 #Tooltip,
 .window-caption{border-color: rgba(255,/**/255,255, 0.2);}
@@ -446,8 +446,8 @@ StScrollBar StButton,StScrollBar StBin#trough{border-radius: 9999px; border-colo
 .popup-slider-menu-item {
     height: 1em;
     -slider-height: 6px;
-    -slider-background-color: rgba(0,0,0, 0.2);
-    -slider-active-background-color: #303030;
+    -slider-background-color: rgba(255,255,255, 0.2);
+    -slider-active-background-color: #dcdcdc;
     -slider-border-width: 1px;
     -slider-handle-radius: 0em;
 }
@@ -461,7 +461,7 @@ StScrollBar StButton:checked,
 .menu StScrollBar StButton:hover,
 .menu StScrollBar StButton:active,
 .menu StScrollBar StButton:checked
-{background-color: #303030; box-shadow: none;}
+{background-color: #dcdcdc; box-shadow: none;}
 
 /* SVG */
 
@@ -568,16 +568,16 @@ StEntry.expo-workspaces-name-entry {
 
 .applet-separator-line {
     width: 1px;
-    background: rgba(0,0,0, 0.2);
+    background: rgba(255,255,255, 0.2);
 }
 
 .applet-separator-line-vertical {
-    border: 0px solid rgba(0,0,0, 0.2);
+    border: 0px solid rgba(255,255,255, 0.2);
     border-bottom-width: 1px;
 }
 
 /* this is for user applet */
-.user-label { color: #303030;}
+.user-label { color: #dcdcdc;}
 
 .user-icon{border: none;}
 
